@@ -1,4 +1,5 @@
-# 🌿 AyushSetu – Modernizing Panchakarma Progress Tracking
+# 🌿 SIH-AyushSetu – Modernizing Panchakarma Progress Tracking
+
 
 **AyushSetu** is an AI-powered system designed to **modernize the Ayurvedic Panchakarma consultation and progress tracking process**.
 It combines **traditional Ayurvedic insights** with **machine learning models** to help both doctors and patients save time, track improvements, and visualize Vikriti (dosha imbalance) levels.
